@@ -18,6 +18,7 @@
 
 ## 🏗 Architecture
 
+```
 Frontend (React)  
 ⬇  
 Smart Contract (Solidity)  
@@ -25,6 +26,7 @@ Smart Contract (Solidity)
 Ethereum Blockchain  
 ⬇  
 IPFS (File Storage)
+```
 
 ---
 
@@ -103,6 +105,7 @@ IPFS (File Storage)
 
 ### 🔹 G-DRIVE UI 
 
+<img width="1898" height="864" alt="G-DRIVE UI Blockchain Technology" src="https://github.com/user-attachments/assets/d383e4b1-3a8e-4d08-a34d-a1dcae712cb6" />
 
 ---
 
