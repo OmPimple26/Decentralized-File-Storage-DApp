@@ -1,13 +1,3 @@
-# Sample Hardhat Project
+# Decentralized-File-Storage-DApp
 
-This project demonstrates a basic Hardhat use case. It comes with a sample contract, a test for that contract, and a script that deploys that contract.
-
-Try running some of the following tasks:
-
-```shell
-npx hardhat help
-npx hardhat test
-REPORT_GAS=true npx hardhat test
-npx hardhat node
-npx hardhat run scripts/deploy.js
-```
+🚀 Decentralized File Storage DApp built using Solidity, Ethereum, React, and IPFS. Users can securely upload files to IPFS while ownership and access control are managed via smart contracts on the blockchain 🔐. Supports wallet authentication, file sharing, and on-chain permission management for secure &amp; transparent storage 🌐📁.
